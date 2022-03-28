@@ -26,3 +26,5 @@
 
             PPT 작성
 ```
+
+https://github.com/https-github-com-ecorea/ECorea.git 에서 작업
