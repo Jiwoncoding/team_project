@@ -11,4 +11,4 @@ https://github.com/https-github-com-ecorea/ECorea.git 에서 팀프로젝트 작
 ![image](https://user-images.githubusercontent.com/80305292/166145172-f4a0c96f-218c-4371-acbc-0123d294527c.png)
 
 ### 개발도구
-![image](https://user-images.githubusercontent.com/80305292/166145122-f9a7a1d8-295e-4fb5-852a-8933f5aa502f.png)
+![image](https://user-images.githubusercontent.com/80305292/166145220-2267b280-a1d6-40c4-bc51-14b6bd995242.png)
