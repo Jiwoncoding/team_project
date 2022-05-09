@@ -2,23 +2,23 @@
 
 https://github.com/https-github-com-ecorea/ECorea.git
 
-리뷰 0) 완성된 홈페이지 미리보기
+- 리뷰 0) 완성된 홈페이지 미리보기
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-0-%EC%99%84%EC%84%B1%EB%90%9C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0
-리뷰 1) ECorea 메인 페이지 
+- 리뷰 1) ECorea 메인 페이지 
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-1-ECorea-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80
-리뷰 2) SHOP
+- 리뷰 2) SHOP
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-2-SHOP
-리뷰 3) CHALLENGE
+- 리뷰 3) CHALLENGE
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-3-CHALLENGE
-리뷰 4) 관심상품조회
+- 리뷰 4) 관심상품조회
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-4-%EA%B4%80%EC%8B%AC%EC%83%81%ED%92%88%EC%A1%B0%ED%9A%8C
-리뷰 5) 장바구니
+- 리뷰 5) 장바구니
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-5-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88
-리뷰 6) 마이페이지
+- 리뷰 6) 마이페이지
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-6-%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80
-리뷰 7) 주문/결제 화면
+- 리뷰 7) 주문/결제 화면
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-7-%EC%A3%BC%EB%AC%B8%EA%B2%B0%EC%A0%9C-%ED%99%94%EB%A9%B4
-리뷰 8) 에러 잡기
+- 리뷰 8) 에러 잡기
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-8-%EC%97%90%EB%9F%AC-%EC%9E%A1%EA%B8%B0
 
 ### 기획의도 
