@@ -4,8 +4,7 @@ https://github.com/https-github-com-ecorea/ECorea.git
 
 
 ### 팀프로젝트 리뷰
-- 리뷰 0) 완성된 홈페이지 미리보기  
-https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-0-%EC%99%84%EC%84%B1%EB%90%9C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0
+- [리뷰 0) 완성된 홈페이지 미리보기](https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-0-%EC%99%84%EC%84%B1%EB%90%9C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0)
 - 리뷰 1) ECorea 메인 페이지  
 https://velog.io/@wontwopunch/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0-1-ECorea-%EB%A9%94%EC%9D%B8-%ED%8E%98%EC%9D%B4%EC%A7%80
 - 리뷰 2) SHOP  
